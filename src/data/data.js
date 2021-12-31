@@ -109,6 +109,47 @@ const data = [
   },
   {
     id: 4,
+    name: "PIXABITS GROUP LTD",
+    description:
+      "Pixabits is a startup in Uganda, that specilises in designing and developing digital products for small. medium and large enterprises. Designed annd developed the website using Wordpress and Oxygen",
+    descriptionFull:
+      "Pixabits is a startup in Uganda, that specilises in designing and developing digital products for small. medium and large enterprises. Designed annd developed the website using Wordpress and Oxygen",
+    tech: [
+      "WORDPRESS",
+      "BOOTSTRAP",
+      "CSS",
+      "REST APIS",
+      "OXYGEN",
+      "GUTENBERG",
+      "PLUGINS",
+      "CHILD THEMES",
+    ],
+    profilePhoto: "images/pixabits.jpg",
+    photos: [
+      "pixabits001.jpg",
+      "pixabits002.jpg",
+      "pixabits003.jpg",
+      "pixabits004.jpg",
+      "pixabits005.jpg",
+      "pixabits006.jpg",
+      "pixabits007.jpg",
+      "pixabits008.jpg",
+      "pixabits009.jpg",
+      "pixabits010.jpg",
+    ],
+    websiteURL: "https://pixabitshq.com/",
+    role: "WORDPRESS DEVELOPER",
+    roleRecap:
+      "Pixabits is a startup in Uganda, that specilises in designing and developing digital products for small. medium and large enterprises. Designed annd developed the website using Wordpress and Oxygen",
+    contribution: [
+      "Interfacing with StartUps to understand their project requirements",
+      "Wireframing the Website",
+      "Developing the Website",
+      "Testing the website for full functionality",
+    ],
+  },
+  {
+    id: 5,
     name: "JS ALGORITHMS",
     description:
       "This is a project containing common Javascript Algorithms found online.",
@@ -129,7 +170,7 @@ const data = [
     ],
   },
   {
-    id: 5,
+    id: 6,
     name: "VINE PHARMACUETICALS ONLINE STORE",
     description:
       "Vine Pharmaceuticals Online Store is an exciting project that I built on Shopify.",
@@ -159,7 +200,7 @@ const data = [
     ],
   },
   {
-    id: 6,
+    id: 7,
     name: "BIDIPA GHANA",
     description:
       "Under Andela , I partnered with Recycle Up! Incubator programme in contributing to the creation of a robust circular economy in Ghana where all resources are effectively used to maximize impact thereby avoiding waste. We provide early-stage social entrepreneurs on a cohort basis with business development training and consulting to develop their social businesses.",
@@ -171,9 +212,9 @@ const data = [
       "CSS",
       "REST APIS",
       "ELEMENTOR",
-	  "GUTENBERG",
-	  "PLUGINS",
-	  "CHILD THEMES"
+      "GUTENBERG",
+      "PLUGINS",
+      "CHILD THEMES",
     ],
     profilePhoto: "images/bidipa.jpg",
     photos: [
@@ -197,7 +238,7 @@ const data = [
     ],
   },
   {
-    id: 7,
+    id: 8,
     name: "EYE OF THE BRAINS ECO FEEDS",
     description:
       "Under Andela , I partnered with Recycle Up! Incubator programme in contributing to the creation of a robust circular economy in Ghana where all resources are effectively used to maximize impact thereby avoiding waste. We provide early-stage social entrepreneurs on a cohort basis with business development training and consulting to develop their social businesses.",
@@ -209,9 +250,9 @@ const data = [
       "CSS",
       "REST APIS",
       "ELEMENTOR",
-	  "GUTENBERG",
-	  "PLUGINS",
-	  "CHILD THEMES"
+      "GUTENBERG",
+      "PLUGINS",
+      "CHILD THEMES",
     ],
     profilePhoto: "images/eob.jpg",
     photos: [
@@ -233,7 +274,82 @@ const data = [
     ],
   },
   {
-    id: 8,
+    id: 9,
+    name: "RECYCLING FIELD GHANA",
+    description:
+      "Under Andela , I partnered with Recycle Up! Incubator programme in contributing to the creation of a robust circular economy in Ghana where all resources are effectively used to maximize impact thereby avoiding waste. We provide early-stage social entrepreneurs on a cohort basis with business development training and consulting to develop their social businesses.",
+    descriptionFull:
+      "Under Andela , I partnered with Recycle Up! Incubator programme in contributing to the creation of a robust circular economy in Ghana where all resources are effectively used to maximize impact thereby avoiding waste. We provide early-stage social entrepreneurs on a cohort basis with business development training and consulting to develop their social businesses. Under this programme I built Websites for StartUps Across WestAfrica to increase their visibility and online presence.",
+    tech: [
+      "WORDPRESS",
+      "BOOTSTRAP",
+      "CSS",
+      "REST APIS",
+      "ELEMENTOR",
+      "GUTENBERG",
+      "PLUGINS",
+      "CHILD THEMES",
+    ],
+    profilePhoto: "images/rfg.jpg",
+    photos: [
+      "rfg001.jpg",
+      "rfg002.jpg",
+      "rfg003.jpg",
+      "rfg004.jpg",
+      "rfg005.jpg",
+      "rfg006.jpg",
+      "rfg007.jpg",
+    ],
+    websiteURL: "http://recyclingfieldghana.com/",
+    role: "WORDPRESS DEVELOPER",
+    roleRecap:
+      "Under Andela , I partnered with Recycle Up! Incubator programme in contributing to the creation of a robust circular economy in Ghana where all resources are effectively used to maximize impact thereby avoiding waste. We provide early-stage social entrepreneurs on a cohort basis with business development training and consulting to develop their social businesses. Under this programme I built Websites for StartUps Across WestAfrica to increase their visibility and online presence.",
+    contribution: [
+      "Interfacing with StartUps to understand their project requirements",
+      "Wireframing the Website",
+      "Developing the Website",
+      "Testing the website for full functionality",
+    ],
+  },
+  {
+    id: 10,
+    name: "OFNET FARMS GHANA",
+    description:
+      "Under Andela , I partnered with Recycle Up! Incubator programme in contributing to the creation of a robust circular economy in Ghana where all resources are effectively used to maximize impact thereby avoiding waste. We provide early-stage social entrepreneurs on a cohort basis with business development training and consulting to develop their social businesses.",
+    descriptionFull:
+      "Under Andela , I partnered with Recycle Up! Incubator programme in contributing to the creation of a robust circular economy in Ghana where all resources are effectively used to maximize impact thereby avoiding waste. We provide early-stage social entrepreneurs on a cohort basis with business development training and consulting to develop their social businesses. Under this programme I built Websites for StartUps Across WestAfrica to increase their visibility and online presence.",
+    tech: [
+      "WORDPRESS",
+      "BOOTSTRAP",
+      "CSS",
+      "REST APIS",
+      "ELEMENTOR",
+      "GUTENBERG",
+      "PLUGINS",
+      "CHILD THEMES",
+    ],
+    profilePhoto: "images/ofnet.jpg",
+    photos: [
+      "ofnet001.jpg",
+      "ofnet002.jpg",
+      "ofnet003.jpg",
+      "ofnet004.jpg",
+      "ofnet005.jpg",
+    ],
+    websiteURL: "http://recyclingfieldghana.com/",
+    role: "WORDPRESS DEVELOPER",
+    roleRecap:
+      "Under Andela , I partnered with Recycle Up! Incubator programme in contributing to the creation of a robust circular economy in Ghana where all resources are effectively used to maximize impact thereby avoiding waste. We provide early-stage social entrepreneurs on a cohort basis with business development training and consulting to develop their social businesses. Under this programme I built Websites for StartUps Across WestAfrica to increase their visibility and online presence.",
+    contribution: [
+      "Interfacing with StartUps to understand their project requirements",
+      "Wireframing the Website",
+      "Developing the Website",
+      "Testing the website for full functionality",
+    ],
+  },
+
+  {
+    id: 11,
     name: "ANAIS MEDICAL LOGISTICS",
     description:
       "Anais is a Medical Start-up in Uganda with a goal of extending services to patients who need Palliative Care, Bedside Nursing Care, Live-In Companionship, Hospital Attendant Services, Emergency Care and Management, Personal Care and Hospice services. The web-app was built as a marketing tool and I intergrated with Anais' Social Media Feed. The Web-App was built with wordpress.",
@@ -254,9 +370,8 @@ const data = [
       "I received data from restful APIs from the Backend team and dispalyed it as per the design",
     ],
   },
-
   {
-    id: 9,
+    id: 12,
     name: "RESTRR APP",
     description:
       "This a Mobile to help Gym-goers help them set timers between their sets.",
@@ -275,7 +390,7 @@ const data = [
     ],
   },
   {
-    id: 10,
+    id: 13,
     name: "YAPPR APP",
     description:
       "This an App to easily get details of any youtube channel of your choice.",
