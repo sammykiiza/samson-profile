@@ -53,7 +53,7 @@ export default class Project extends Component {
 		return (
 			<div className="pageWrap">
 				<MainNavigation />
-				<span className="d-block p-5 height-100 contentWrap">
+				<span className="d-block p-5 height-100 contentWrap bg-white">
 					{this.state.project !== null ? (
 						<div>
 							<div className="display-4 w-100">

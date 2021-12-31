@@ -7,7 +7,7 @@ export default class Portfolio extends Component {
 		return (
 			<div className="pageWrap">
 				<MainNavigation />
-				<section className="d-block p-5 height-100 contentWrap">
+				<section className="d-block p-5 height-100 contentWrap bg-white">
 					<div className="display-4 w-100">Portfolio</div>
 					<hr />
 					<ProjectList />

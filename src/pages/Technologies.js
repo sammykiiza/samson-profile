@@ -6,7 +6,7 @@ export default class Technologies extends Component {
 		return (
 			<div className="pageWrap">
 				<MainNavigation />
-				<span className="d-block p-5 height-100 contentWrap">
+				<span className="d-block p-5 height-100 contentWrap bg-white">
 					<div className="display-4 w-100">Technologies</div>
 					<hr />
 					<p>I have experience in the following tech stack</p>
