@@ -21,9 +21,10 @@
   height: 100vh;
 }
 .contentWrap{
-  margin-left: 30%;
+  margin-left: 25%;
   width: 100%;
   display: block;
+  background-color: #fff;
 }
 .profileImage img{
   width: 150px;
@@ -53,6 +54,7 @@
 }
 .pageWrap{
   display: flex;
+  background-image: url('../images/pen-4337521_1280.jpg');
 }
 .projectCard{
     display: flex;
