@@ -197,7 +197,43 @@ const data = [
     ],
   },
   {
-    id: 6,
+    id: 7,
+    name: "EYE OF THE BRAINS ECO FEEDS",
+    description:
+      "Under Andela , I partnered with Recycle Up! Incubator programme in contributing to the creation of a robust circular economy in Ghana where all resources are effectively used to maximize impact thereby avoiding waste. We provide early-stage social entrepreneurs on a cohort basis with business development training and consulting to develop their social businesses.",
+    descriptionFull:
+      "Under Andela , I partnered with Recycle Up! Incubator programme in contributing to the creation of a robust circular economy in Ghana where all resources are effectively used to maximize impact thereby avoiding waste. We provide early-stage social entrepreneurs on a cohort basis with business development training and consulting to develop their social businesses. Under this programme I built Websites for StartUps Across WestAfrica to increase their visibility and online presence.",
+    tech: [
+      "WORDPRESS",
+      "BOOTSTRAP",
+      "CSS",
+      "REST APIS",
+      "ELEMENTOR",
+	  "GUTENBERG",
+	  "PLUGINS",
+	  "CHILD THEMES"
+    ],
+    profilePhoto: "images/eob.jpg",
+    photos: [
+      "eob001.jpg",
+      "eob002.jpg",
+      "eob003.jpg",
+      "eob004.jpg",
+      "eob005.jpg",
+    ],
+    websiteURL: "https://eyeofthebrainecofeeds.com/",
+    role: "WORDPRESS DEVELOPER",
+    roleRecap:
+      "Under Andela , I partnered with Recycle Up! Incubator programme in contributing to the creation of a robust circular economy in Ghana where all resources are effectively used to maximize impact thereby avoiding waste. We provide early-stage social entrepreneurs on a cohort basis with business development training and consulting to develop their social businesses. Under this programme I built Websites for StartUps Across WestAfrica to increase their visibility and online presence.",
+    contribution: [
+      "Interfacing with StartUps to understand their project requirements",
+      "Wireframing the Website",
+      "Developing the Website",
+      "Testing the website for full functionality",
+    ],
+  },
+  {
+    id: 8,
     name: "ANAIS MEDICAL LOGISTICS",
     description:
       "Anais is a Medical Start-up in Uganda with a goal of extending services to patients who need Palliative Care, Bedside Nursing Care, Live-In Companionship, Hospital Attendant Services, Emergency Care and Management, Personal Care and Hospice services. The web-app was built as a marketing tool and I intergrated with Anais' Social Media Feed. The Web-App was built with wordpress.",
@@ -207,7 +243,7 @@ const data = [
     profilePhoto: "images/anais.png",
     photos: ["anais001.PNG", "anais002.PNG", "anais003.PNG", "anais004.PNG"],
     websiteURL: "https://anais.mywebcommunity.org",
-    role: "DEVELOPER",
+    role: "WORDPRESS DEVELOPER",
     roleRecap:
       "Throughout two years of cooperation, I led the team that built the entire platform from scratch and later maintained it and guaranteed its’ stability and success. I also served as a strong mentor of new team members.",
     contribution: [
@@ -220,7 +256,7 @@ const data = [
   },
 
   {
-    id: 8,
+    id: 9,
     name: "RESTRR APP",
     description:
       "This a Mobile to help Gym-goers help them set timers between their sets.",
@@ -239,7 +275,7 @@ const data = [
     ],
   },
   {
-    id: 9,
+    id: 10,
     name: "YAPPR APP",
     description:
       "This an App to easily get details of any youtube channel of your choice.",
