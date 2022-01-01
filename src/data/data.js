@@ -369,7 +369,7 @@ const data = [
       "I converted Wireframes into Responsive and Beautiful Code",
       "I received data from restful APIs from the Backend team and dispalyed it as per the design",
     ],
-  },  
+  },
   {
     id: 12,
     name: "PRODUCT CAROUSEL WITH FILTERS",
@@ -377,7 +377,7 @@ const data = [
       "A Simple yet powerful image carousel with options to filter products by category, a dynamic learn more page, dynamic shop page and fully mobile responsive",
     descriptionFull:
       "A Simple yet powerful image carousel with options to filter products by category, a dynamic learn more page, dynamic shop page and fully mobile responsive.",
-    tech: ["React JS", "TypeScript", "CSS", "Responsive Design","Algorithms"],
+    tech: ["React JS", "TypeScript", "CSS", "Responsive Design", "Algorithms"],
     profilePhoto: "images/product-carousel.jpg",
     photos: [
       "product-carousel001.jpg",
@@ -396,11 +396,45 @@ const data = [
       "Dots indicator to show current image",
       "Arrow navigators to load the next and prevoius image in the queue",
       "Responsive carousel",
-      "Filter products by category"
+      "Filter products by category",
     ],
   },
   {
     id: 13,
+    name: "SHOPPING CART WITH FILTERS",
+    description:
+      "A Simple and User Friendly Shopping Cart with filters by category",
+    descriptionFull:
+      "A Simple and User Friendly Shopping Cart with filters by category. You can add and remove filters from the cart. Products already added to the cart are automatically highlighted in the products listings and you can change quantities in your shopping cart",
+    tech: ["React JS", "TypeScript", "CSS", "Responsive Design", "Algorithms"],
+    profilePhoto: "images/shopping-cart.jpg",
+    photos: [
+      "shopping-cart001.jpg",
+      "shopping-cart002.jpg",
+      "shopping-cart003.jpg",
+      "shopping-cart004.jpg",
+      "shopping-cart005.jpg",
+    ],
+    websiteURL: "https://edgar256.github.io/shopping-cart/",
+    codeURL: "https://github.com/Edgar256/shopping-cart",
+    role: "DEVELOPER",
+    roleRecap:
+    "A Simple and User Friendly Shopping Cart with filters by category. You can add and remove filters from the cart. Products already added to the cart are automatically highlighted in the products listings and you can change quantities in your shopping cart",
+    contribution: [
+      "By default , App displays all products",
+      "You can sort you results by category , using the buttons on the top of the page",
+      "You are able to view the number of results for your current search query",
+      "You can add products to your cart",
+      "You can remove products from your cart",
+      "You are able to view total per product, and number of units of that product in the cart",
+      "You are able to view the total number of units in your cart",
+      "You are able to view the total cost of your entire cart",
+      "Unknown routes are redirected to a custom Error page",
+      "The App is fully mobile responsive, you can view it in your tad or mobile phone" 
+    ],
+  },
+  {
+    id: 14,
     name: "RESTRR APP",
     description:
       "This a Mobile to help Gym-goers help them set timers between their sets.",
@@ -419,7 +453,7 @@ const data = [
     ],
   },
   {
-    id: 14,
+    id: 15,
     name: "YAPPR APP",
     description:
       "This an App to easily get details of any youtube channel of your choice.",
