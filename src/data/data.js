@@ -369,9 +369,38 @@ const data = [
       "I converted Wireframes into Responsive and Beautiful Code",
       "I received data from restful APIs from the Backend team and dispalyed it as per the design",
     ],
-  },
+  },  
   {
     id: 12,
+    name: "PRODUCT CAROUSEL WITH FILTERS",
+    description:
+      "A Simple yet powerful image carousel with options to filter products by category, a dynamic learn more page, dynamic shop page and fully mobile responsive",
+    descriptionFull:
+      "A Simple yet powerful image carousel with options to filter products by category, a dynamic learn more page, dynamic shop page and fully mobile responsive.",
+    tech: ["React JS", "TypeScript", "CSS", "Responsive Design","Algorithms"],
+    profilePhoto: "images/product-carousel.jpg",
+    photos: [
+      "product-carousel001.jpg",
+      "product-carousel002.jpg",
+      "product-carousel003.jpg",
+      "product-carousel004.jpg",
+      "product-carousel005.jpg",
+    ],
+    websiteURL: "https://edgar256.github.io/god-frontend-code-test/#/",
+    codeURL: "https://github.com/Edgar256/god-frontend-code-test",
+    role: "DEVELOPER",
+    roleRecap:
+      "Developed the whole project from scratch without using any NPM packages for the carousel. I intend to convert the carousel in this project into an NPM PACKAGE at some point when time avails itself",
+    contribution: [
+      "Smooth custom built image carousel",
+      "Dots indicator to show current image",
+      "Arrow navigators to load the next and prevoius image in the queue",
+      "Responsive carousel",
+      "Filter products by category"
+    ],
+  },
+  {
+    id: 13,
     name: "RESTRR APP",
     description:
       "This a Mobile to help Gym-goers help them set timers between their sets.",
@@ -390,7 +419,7 @@ const data = [
     ],
   },
   {
-    id: 13,
+    id: 14,
     name: "YAPPR APP",
     description:
       "This an App to easily get details of any youtube channel of your choice.",
