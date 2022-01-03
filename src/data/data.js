@@ -377,7 +377,7 @@ const data = [
       "A Simple yet powerful image carousel with options to filter products by category, a dynamic learn more page, dynamic shop page and fully mobile responsive",
     descriptionFull:
       "A Simple yet powerful image carousel with options to filter products by category, a dynamic learn more page, dynamic shop page and fully mobile responsive.",
-    tech: ["React JS", "TypeScript", "CSS", "Responsive Design", "Algorithms"],
+    tech: ["React JS", "TypeScript", "CSS", "Responsive Design", "Algorithms", "GH-Pages"],
     profilePhoto: "images/product-carousel.jpg",
     photos: [
       "product-carousel001.jpg",
@@ -406,7 +406,7 @@ const data = [
       "A Simple and User Friendly Shopping Cart with filters by category",
     descriptionFull:
       "A Simple and User Friendly Shopping Cart with filters by category. You can add and remove filters from the cart. Products already added to the cart are automatically highlighted in the products listings and you can change quantities in your shopping cart",
-    tech: ["React JS", "TypeScript", "CSS", "Responsive Design", "Algorithms"],
+    tech: ["React JS", "TypeScript", "CSS", "Responsive Design", "Algorithms", "GH-Pages"],
     profilePhoto: "images/shopping-cart.jpg",
     photos: [
       "shopping-cart001.jpg",
