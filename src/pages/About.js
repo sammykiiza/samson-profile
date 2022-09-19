@@ -11,13 +11,13 @@ export default class About extends Component {
 					<div className="display-4 w-100">About</div>
 					<hr />
 					<p>
-						I'm a FrontEnd Developer at Mobile Paradigm Group (MPG) a Tech
-						Company in Uganda(East-Africa). I have a big passion for UI effects,
+						I'm a FullStack Developer at Mooti Technologies Limited a Tech
+						Company in London(UK). I have a big passion for PHP, UI effects,
 						dynamic user experience, website and mobile-app development.
 					</p>
 					<p>
 						Over the years , I have played a key role in converting ideas from
-						ink to robust scalable web and mobile apps, following the best
+						UI designs to robust scalable web and mobile apps, following the best
 						engineering principles. My experience has taught me that every
 						problem requires a unique solution. This has been the key to my
 						success and the teams I have worked with.

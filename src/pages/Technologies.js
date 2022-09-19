@@ -14,11 +14,6 @@ export default class Technologies extends Component {
 						<h3>PROTOTYPING AND WIREFRAMING</h3>
 						<hr />
 						<div className="d-flex flex-wrap">
-							<span className="btn btn-light m-2">PEN & PAPER</span>
-							<span className="btn btn-light m-2">FIGMA</span>
-							<span className="btn btn-light m-2">INVISION</span>
-							<span className="btn btn-light m-2">XD</span>
-							<span className="btn btn-light m-2">SKETCH</span>
 							<span className="btn btn-light m-2">ILLUSTRATOR</span>
 							<span className="btn btn-light m-2">PHOTOSHOP</span>
 							<span className="btn btn-light m-2">FIGMA</span>
@@ -36,7 +31,6 @@ export default class Technologies extends Component {
 							<span className="btn btn-light m-2">TYPESCRIPT</span>
 							<span className="btn btn-light m-2">VUE JS</span>
 							<span className="btn btn-light m-2">SASS</span>
-							<span className="btn btn-light m-2">POLARIS</span>
 						</div>
 					</div>
 					<div className="my-5">
@@ -46,7 +40,6 @@ export default class Technologies extends Component {
 							<span className="btn btn-light m-2">NODE JS</span>
 							<span className="btn btn-light m-2">PHP</span>
 							<span className="btn btn-light m-2">RESTFUL APIS</span>
-							<span className="btn btn-light m-2">GRAPHQL</span>
 						</div>
 					</div>
 					<div className="my-5">
@@ -54,9 +47,6 @@ export default class Technologies extends Component {
 						<hr />
 						<div className="d-flex">
 							<span className="btn btn-light m-2">REACT NATIVE</span>
-							<span className="btn btn-light m-2">IONIC</span>
-							<span className="btn btn-light m-2">CORDOVA</span>
-							<span className="btn btn-light m-2">FLUTTER</span>
 						</div>
 					</div>
 					<div className="my-5">
@@ -65,8 +55,6 @@ export default class Technologies extends Component {
 						<div className="d-flex">
 							<span className="btn btn-light m-2">WORDPRESS</span>
 							<span className="btn btn-light m-2">SHOPIFY</span>
-							<span className="btn btn-light m-2">DRUPAL</span>
-							<span className="btn btn-light m-2">JOOMLA</span>
 						</div>
 					</div>
 					<div className="my-5">
@@ -81,9 +69,7 @@ export default class Technologies extends Component {
 						<h3>DEV-OPS</h3>
 						<hr />
 						<div className="d-flex">
-							<span className="btn btn-light m-2">AWS</span>
-							<span className="btn btn-light m-2">HEROKU</span>
-							<span className="btn btn-light m-2">DOCKERS</span>
+							<span className="btn btn-light m-2">DOCKER</span>
 						</div>
 					</div>
 					<div className="my-5">
@@ -92,7 +78,6 @@ export default class Technologies extends Component {
 						<div className="d-flex">
 							<span className="btn btn-light m-2">MONGO DB</span>
 							<span className="btn btn-light m-2">MYSQL</span>
-							<span className="btn btn-light m-2">POSTGRESS</span>
 						</div>
 					</div>
 				</span>

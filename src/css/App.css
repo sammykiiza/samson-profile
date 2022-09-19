@@ -1,9 +1,8 @@
 /* 
-  Edgar Tinkamanyire ,
-  The Silent Storm
+  Ayesiga Samson
 */
 .homePage{
-  background-image: url('../images/pen-4337521_1280.jpg');
+  background-image: url('../images/background.jpg');
   background-repeat: no-repeat;
   height: 100%;
   background-size: cover ;
@@ -62,9 +61,10 @@
     padding: 45px 10px;
 }
 .greetingText{
-  background-color: #3537335c;
+  background-color: #000000;
+  opacity: 0.5;
   padding: 10px 20px;
-  height: 40vh;
+  height: 55vh;
 }
 
 /* Responsive Sidebar */

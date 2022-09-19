@@ -8,13 +8,13 @@ export default class MainNavigation extends Component {
 				<Link to="/" className="profileDetails sidebarLink py-2">
 					<div className="w-100 d-flex profileImage">
 						<img
-							src="../images/EDGAR.jfif"
-							alt="Edgar profile"
+							src="../images/samson.JPG"
+							alt="samson profile"
 							className="rounded-circle mx-auto"
 						/>
 					</div>
 					<div className="d-block text-center text-white mb-2">
-						<div className="nameFont">EDGAR TINKAMANYIRE</div>
+						<div className="nameFont">Ayesiga Samson</div>
 						<p>FULL STACK SOFTWARE ENGINEER</p>
 					</div>
 				</Link>

@@ -1,8 +1,8 @@
 {
-  "name": "edgar-profile",
+  "name": "samson-profile",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://edgar256.github.io/",
+  "homepage": "https://samson-profile.github.io/",
   "dependencies": {
     "animate.css": "^3.7.2",
     "owl.carousel": "^2.3.4",
