@@ -46,25 +46,6 @@ export default class ProjectList extends Component {
             ) : (
               <div />
             )}
-            {/* {project.websiteURL ? (
-							<a
-								href={project.websiteURL}
-								target="_blank"
-								rel="noopener noreferrer"
-								className="btn btn-primary mr-5"
-							>
-								VISIT WEBSITE
-							</a>
-						) : (
-							<a
-								href={project.codeURL}
-								target="_blank"
-								rel="noopener noreferrer"
-								className="btn btn-primary mr-5"
-							>
-								VIEW GITHUB REPO
-							</a>
-						)} */}
           </div>
         </span>
         <span className="w-50">

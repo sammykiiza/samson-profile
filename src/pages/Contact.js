@@ -16,32 +16,11 @@ export default class Contact extends Component {
 									Email
 									<i className="fa fa-envelope mr-2 p-1"></i>:
 								</span>
-								<span className="p-0 ml-3">tinka.edgar@gmail.com</span>
+								<span className="p-0 ml-3">sammykiiza@hotmail.com</span>
 							</li>
 							<li className="list-group-item">
 								<a
-									href="https://stackoverflow.com/users/6561907/edgar256"
-									target="_blank"
-									rel="noopener noreferrer"
-									className="text-secondary"
-								>
-									StackOverflow
-									<i className="fa fa-stack-overflow mr-2 p-1"></i>:
-								</a>
-								<span className="p-0 ml-3">
-									<a
-										href="https://stackoverflow.com/users/6561907/edgar256"
-										target="_blank"
-										rel="noopener noreferrer"
-										className="text-secondary"
-									>
-										https://stackoverflow.com/users/6561907/edgar256
-									</a>
-								</span>
-							</li>
-							<li className="list-group-item">
-								<a
-									href="https://www.linkedin.com/in/tinkamanyire-edgar/"
+									href="https://www.linkedin.com/in/samson-ayesiga-28847217b/"
 									target="_blank"
 									rel="noopener noreferrer"
 									className="text-secondary"
@@ -51,18 +30,18 @@ export default class Contact extends Component {
 								</a>
 								<span className="p-0 ml-3">
 									<a
-										href="https://www.linkedin.com/in/tinkamanyire-edgar/"
+										href="https://www.linkedin.com/in/samson-ayesiga-28847217b/"
 										target="_blank"
 										rel="noopener noreferrer"
 										className="text-secondary"
 									>
-										https://www.linkedin.com/in/tinkamanyire-edgar/
+										https://www.linkedin.com/in/samson-ayesiga-28847217b/
 									</a>
 								</span>
 							</li>
 							<li className="list-group-item">
 								<a
-									href="https://github.com/Edgar256"
+									href="https://github.com/sammykiiza"
 									target="_blank"
 									rel="noopener noreferrer"
 									className="text-secondary"
@@ -72,33 +51,12 @@ export default class Contact extends Component {
 								</a>
 								<span className="p-0 ml-3">
 									<a
-										href="https://github.com/Edgar256"
+										href="https://github.com/sammykiiza"
 										target="_blank"
 										rel="noopener noreferrer"
 										className="text-secondary"
 									>
-										https://github.com/Edgar256
-									</a>
-								</span>
-							</li>
-							<li className="list-group-item">
-								<a
-									href="https://www.codewars.com/users/Edgar256"
-									target="_blank"
-									rel="noopener noreferrer"
-									className="text-secondary"
-								>
-									Codewars
-									<i className="fa fa-code mr-2 p-1"></i>:
-								</a>
-								<span className="p-0 ml-3">
-									<a
-										href="https://www.codewars.com/users/Edgar256"
-										target="_blank"
-										rel="noopener noreferrer"
-										className="text-secondary"
-									>
-										https://www.codewars.com/users/Edgar256
+										https://github.com/sammykiiza
 									</a>
 								</span>
 							</li>

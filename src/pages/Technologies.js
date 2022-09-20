@@ -25,6 +25,7 @@ export default class Technologies extends Component {
 						<div className="d-flex flex-wrap">
 							<span className="btn btn-light m-2">HTML5</span>
 							<span className="btn btn-light m-2">CSS3</span>
+							<span className="btn btn-light m-2">TAILWIND CSS</span>
 							<span className="btn btn-light m-2">VANILLA JS</span>
 							<span className="btn btn-light m-2">REACT JS</span>
 							<span className="btn btn-light m-2">ANGULAR JS</span>
