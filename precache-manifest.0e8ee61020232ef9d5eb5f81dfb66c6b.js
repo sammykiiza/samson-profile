@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4b1e9afe70dfe4a1e903a27cdbcaecdd",
+    "revision": "871078b0bc51eaf6420e728ef959777f",
     "url": "/samson-profile/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/samson-profile/static/css/2.ff29e5f6.chunk.css"
   },
   {
-    "revision": "ebb1c70857f789b3d1ac",
+    "revision": "640f8def5bf90cadb299",
     "url": "/samson-profile/static/css/main.40b95c0f.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/samson-profile/static/js/2.29397733.chunk.js"
   },
   {
-    "revision": "ebb1c70857f789b3d1ac",
-    "url": "/samson-profile/static/js/main.3f527904.chunk.js"
+    "revision": "640f8def5bf90cadb299",
+    "url": "/samson-profile/static/js/main.c51e34ed.chunk.js"
   },
   {
     "revision": "271f69ed5f5171c1b186",
