@@ -18,13 +18,13 @@ export default class Home extends Component {
 						</div>
 					</div>
 					<div className="d-block mt-5 pt-5">
-						<div className="p-2 mt-5">
-							<Link to="/portfolio" className="btn btn-light customButton">
+						<div className="p-2">
+							<Link to="/portfolio" className="btn btn-dark">
 								PORTFOLIO
 							</Link>
 						</div>
 						<div className="p-2">
-							<Link to="/contact" className="btn btn-light customButton">
+							<Link to="/contact" className="btn btn-dark">
 								CONTACT
 							</Link>
 						</div>
