@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/samson-profile/static/css/main.40b95c0f.chunk.css",
-    "main.js": "/samson-profile/static/js/main.516bade8.chunk.js",
-    "main.js.map": "/samson-profile/static/js/main.516bade8.chunk.js.map",
-    "runtime~main.js": "/samson-profile/static/js/runtime~main.f2fc81f8.js",
-    "runtime~main.js.map": "/samson-profile/static/js/runtime~main.f2fc81f8.js.map",
-    "static/css/2.ff29e5f6.chunk.css": "/samson-profile/static/css/2.ff29e5f6.chunk.css",
-    "static/js/2.29397733.chunk.js": "/samson-profile/static/js/2.29397733.chunk.js",
-    "static/js/2.29397733.chunk.js.map": "/samson-profile/static/js/2.29397733.chunk.js.map",
-    "index.html": "/samson-profile/index.html",
-    "precache-manifest.a5d47ea1d441e0495187ffd6b12663e7.js": "/samson-profile/precache-manifest.a5d47ea1d441e0495187ffd6b12663e7.js",
-    "service-worker.js": "/samson-profile/service-worker.js",
-    "static/css/2.ff29e5f6.chunk.css.map": "/samson-profile/static/css/2.ff29e5f6.chunk.css.map",
-    "static/css/main.40b95c0f.chunk.css.map": "/samson-profile/static/css/main.40b95c0f.chunk.css.map",
-    "static/media/App.css": "/samson-profile/static/media/pen-4337521_1280.ced9d60c.jpg"
+    "main.css": "./static/css/main.5abd0432.chunk.css",
+    "main.js": "./static/js/main.bc1973f2.chunk.js",
+    "main.js.map": "./static/js/main.bc1973f2.chunk.js.map",
+    "runtime~main.js": "./static/js/runtime~main.5adf07e1.js",
+    "runtime~main.js.map": "./static/js/runtime~main.5adf07e1.js.map",
+    "static/css/2.ff29e5f6.chunk.css": "./static/css/2.ff29e5f6.chunk.css",
+    "static/js/2.29397733.chunk.js": "./static/js/2.29397733.chunk.js",
+    "static/js/2.29397733.chunk.js.map": "./static/js/2.29397733.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.afdb954eddc6a2f32f4d474604b69641.js": "./precache-manifest.afdb954eddc6a2f32f4d474604b69641.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/2.ff29e5f6.chunk.css.map": "./static/css/2.ff29e5f6.chunk.css.map",
+    "static/css/main.5abd0432.chunk.css.map": "./static/css/main.5abd0432.chunk.css.map",
+    "static/media/App.css": "./static/media/pen-4337521_1280.ced9d60c.jpg"
   }
 }
